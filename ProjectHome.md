@@ -1,0 +1,1 @@
+Uploadify is a JQuery plugin that allows for single or multiple file uploads using a mixture of javascript, flash, and server-side scripting.  Files are uploaded with a simple, yet elegant file upload queue that can be styled to your liking.  Custom event handlers make the script extremely versatile.
